@@ -1,0 +1,23 @@
+h1 {
+	margin-top; 50px;
+	font-family: impact;
+	font-size: 50px;
+	text-align: center;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+.text {
+	border-style: dashed;
+	margin bottom: 50px;
+}
+
+.writing {
+	text-decoration: none;
+	color: #6E8BE0;
+}
